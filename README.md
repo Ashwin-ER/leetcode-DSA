@@ -26,8 +26,13 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0217-contains-duplicate) |
+| [2058-concatenation-of-array](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/2058-concatenation-of-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
