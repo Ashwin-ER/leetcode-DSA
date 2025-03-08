@@ -11,6 +11,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0242-valid-anagram) |
 ## Sorting
@@ -35,4 +36,8 @@
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/2058-concatenation-of-array) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
