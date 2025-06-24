@@ -1,18 +1,10 @@
 class Solution(object):
     def twoSum(self, nums, target):
+        nums_map = {}
         n = len(nums)
         for i in range(n):
-            for j in range(i+1,n):
-                if nums[i] + nums[j] == target:
-                    return [i,j]
-        #print()
-
-
-
-
-        """
-        :type nums: List[int]
-        :type target: int
-        :rtype: List[int]
-        """
-        
+            num = nums[i]
+            complement = target - num
+            if complement in nums_map:
+                return [nums_map[complement], i] 
+            nums_map[num] = i 
