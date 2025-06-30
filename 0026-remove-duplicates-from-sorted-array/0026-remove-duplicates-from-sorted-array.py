@@ -1,17 +1,12 @@
-'''class Solution:
-    def removeDuplicates(self, nums: List[int]) -> int:
-        nums = [1,1,2]
-        n = len(nums)
-        a = len(nums)-len(set(nums))
-        if n!=set(nums):
-            return list[set(nums) + a[:-1],end='_']
-        else:
-            return nums'''
-class Solution:
-    def removeDuplicates(self, nums: List[int]) -> int:
-        k = 0
-        for x in nums:
-            if k == 0 or x != nums[k - 1]:
-                nums[k] = x
-                k += 1
-        return k
+class Solution(object):
+    def removeDuplicates(self, nums):
+        if not nums:
+            return 0
+
+        insert_pos = 1
+        for i in range(1, len(nums)):
+            if nums[i] != nums[i-1]:
+                nums[insert_pos] = nums[i]
+                insert_pos = insert_pos + 1
+        return insert_pos
+        
