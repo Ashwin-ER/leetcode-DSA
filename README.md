@@ -28,6 +28,7 @@
 | [0001-two-sum](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0053-maximum-subarray) |
 | [0217-contains-duplicate](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1019-squares-of-a-sorted-array](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/1019-squares-of-a-sorted-array) |
@@ -51,4 +52,12 @@
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1603-running-sum-of-1d-array](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/1603-running-sum-of-1d-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
