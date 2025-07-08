@@ -4,5 +4,5 @@ class Solution(object):
         k=k%n
         if k==0: 
             return 0
-        nums[:]=nums[n-k:]+nums[:n-k]
+        nums[:]=nums[-k:]+nums[:-k]
         return nums[:]
