@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0242-valid-anagram) |
 | [1019-squares-of-a-sorted-array](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/1019-squares-of-a-sorted-array) |
@@ -29,6 +30,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0217-contains-duplicate) |
@@ -41,6 +43,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0283-move-zeroes) |
 | [1019-squares-of-a-sorted-array](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/1019-squares-of-a-sorted-array) |
