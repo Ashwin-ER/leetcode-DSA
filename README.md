@@ -14,6 +14,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0344-reverse-string) |
 ## Sorting
@@ -48,6 +49,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0344-reverse-string) |
