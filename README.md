@@ -12,6 +12,7 @@
 | [0383-ransom-note](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0567-permutation-in-string) |
 ## String
 |  |
 | ------- |
@@ -23,6 +24,7 @@
 | [0344-reverse-string](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0567-permutation-in-string](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0567-permutation-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -59,6 +61,7 @@
 | [0189-rotate-array](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0567-permutation-in-string) |
 | [1019-squares-of-a-sorted-array](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/1019-squares-of-a-sorted-array) |
 ## Simulation
 |  |
@@ -99,4 +102,5 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
