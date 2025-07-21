@@ -7,9 +7,9 @@ class Solution(object):
             count[char] += 1 
             if count[char]%2==0:
                 res = res + 2
-                
+
         for cnt in count.values():
-            if cnt % 2:
+            if cnt % 2==1:
                 res = res + 1
                 break
         return res
