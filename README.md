@@ -11,6 +11,7 @@
 | [0242-valid-anagram](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0409-longest-palindrome](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0409-longest-palindrome) |
 | [0560-subarray-sum-equals-k](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0567-permutation-in-string) |
 ## String
@@ -24,6 +25,7 @@
 | [0344-reverse-string](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0409-longest-palindrome](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0409-longest-palindrome) |
 | [0567-permutation-in-string](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0567-permutation-in-string) |
 ## Sorting
 |  |
@@ -103,4 +105,8 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0567-permutation-in-string) |
+## Greedy
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0409-longest-palindrome) |
 <!---LeetCode Topics End-->
