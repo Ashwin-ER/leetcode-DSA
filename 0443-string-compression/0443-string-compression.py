@@ -1,6 +1,7 @@
 class Solution(object):
     def compress(self, chars):
-        read = write = 0
+        read = 0
+        write = 0
         n = len(chars)
         
         while read < n:
