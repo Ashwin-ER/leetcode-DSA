@@ -9,6 +9,7 @@
 | [0049-group-anagrams](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0409-longest-palindrome) |
@@ -36,6 +37,7 @@
 | [0088-merge-sorted-array](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [1019-squares-of-a-sorted-array](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/1019-squares-of-a-sorted-array) |
 ## Array
 |  |
@@ -50,6 +52,7 @@
 | [0189-rotate-array](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1019-squares-of-a-sorted-array](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/1603-running-sum-of-1d-array) |
@@ -64,6 +67,7 @@
 | [0189-rotate-array](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0567-permutation-in-string) |
 | [1019-squares-of-a-sorted-array](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/1019-squares-of-a-sorted-array) |
@@ -111,4 +115,8 @@
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0409-longest-palindrome) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
