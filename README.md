@@ -9,6 +9,7 @@
 | [0049-group-anagrams](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0383-ransom-note) |
@@ -38,6 +39,7 @@
 | [0088-merge-sorted-array](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/1019-squares-of-a-sorted-array) |
@@ -54,6 +56,7 @@
 | [0189-rotate-array](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -92,6 +95,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -108,6 +112,7 @@
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
@@ -124,4 +129,16 @@
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
