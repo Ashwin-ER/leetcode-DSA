@@ -21,6 +21,3 @@ class Solution(object):
                 if len(res)==k:
                     return res
         return res
-
-    
-        
