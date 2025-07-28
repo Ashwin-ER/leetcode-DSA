@@ -64,6 +64,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1019-squares-of-a-sorted-array](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/1019-squares-of-a-sorted-array) |
+| [1046-max-consecutive-ones-iii](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1603-running-sum-of-1d-array](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/1603-running-sum-of-1d-array) |
 | [2058-concatenation-of-array](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/2058-concatenation-of-array) |
 ## Two Pointers
@@ -93,6 +94,7 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1603-running-sum-of-1d-array](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/1603-running-sum-of-1d-array) |
 ## Divide and Conquer
 |  |
@@ -125,6 +127,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0643-maximum-average-subarray-i) |
+| [1046-max-consecutive-ones-iii](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/1046-max-consecutive-ones-iii) |
 ## Greedy
 |  |
 | ------- |
@@ -134,6 +137,7 @@
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1046-max-consecutive-ones-iii](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/1046-max-consecutive-ones-iii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
