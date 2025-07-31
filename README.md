@@ -16,6 +16,7 @@
 | [0383-ransom-note](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0409-longest-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0567-permutation-in-string) |
 ## String
@@ -30,6 +31,7 @@
 | [0383-ransom-note](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0409-longest-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0567-permutation-in-string) |
 ## Sorting
@@ -128,6 +130,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/1046-max-consecutive-ones-iii) |
