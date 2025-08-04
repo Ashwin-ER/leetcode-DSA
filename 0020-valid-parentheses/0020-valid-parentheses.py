@@ -1,10 +1,13 @@
-class Solution:
-    def isValid(self, s: str) -> bool:
-        stk = []
-        d = {'()', '[]', '{}'}
-        for c in s:
-            if c in '({[':
-                stk.append(c)
-            elif not stk or stk.pop() + c not in d:
-                return False
-        return not stk
+class Solution(object):
+    def isValid(self, s):
+        stack = []
+        d = {'(':')', '{':'}','[':']'}
+        
+        for i in s:
+            if i in d:
+                stack.append(i)
+            else:
+                if stack == [] or d[stack.pop()] != i:
+                    return False
+                  
+        return True if stack == [] else False
