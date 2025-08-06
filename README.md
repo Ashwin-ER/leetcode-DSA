@@ -95,6 +95,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0155-min-stack) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -160,4 +161,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
