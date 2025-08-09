@@ -21,4 +21,3 @@ class MinStack:
 
     def getMin(self) -> int:
         return self.min_stk[-1]
-
