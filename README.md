@@ -97,6 +97,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0232-implement-queue-using-stacks) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 ## Prefix Sum
 |  |
@@ -122,6 +123,7 @@
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting
 |  |
@@ -167,4 +169,5 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
