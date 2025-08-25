@@ -68,6 +68,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0860-design-circular-queue](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0860-design-circular-queue) |
 | [1019-squares-of-a-sorted-array](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1603-running-sum-of-1d-array](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/1603-running-sum-of-1d-array) |
@@ -125,6 +126,7 @@
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0860-design-circular-queue](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0860-design-circular-queue) |
 ## Counting
 |  |
 | ------- |
@@ -170,4 +172,9 @@
 | ------- |
 | [0155-min-stack](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0860-design-circular-queue](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0860-design-circular-queue) |
+## Linked List
+|  |
+| ------- |
+| [0860-design-circular-queue](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0860-design-circular-queue) |
 <!---LeetCode Topics End-->
