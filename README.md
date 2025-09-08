@@ -127,6 +127,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0860-design-circular-queue](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0860-design-circular-queue) |
+| [0969-number-of-recent-calls](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0969-number-of-recent-calls) |
 ## Counting
 |  |
 | ------- |
@@ -173,8 +174,13 @@
 | [0155-min-stack](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0860-design-circular-queue](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0860-design-circular-queue) |
+| [0969-number-of-recent-calls](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0969-number-of-recent-calls) |
 ## Linked List
 |  |
 | ------- |
 | [0860-design-circular-queue](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0860-design-circular-queue) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
