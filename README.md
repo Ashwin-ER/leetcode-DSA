@@ -93,6 +93,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0258-add-digits) |
 | [2058-concatenation-of-array](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/2058-concatenation-of-array) |
 ## Stack
 |  |
@@ -123,6 +124,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0258-add-digits) |
 ## Queue
 |  |
 | ------- |
@@ -189,4 +191,8 @@
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0739-daily-temperatures) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
