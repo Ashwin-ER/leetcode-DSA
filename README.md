@@ -47,6 +47,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/1019-squares-of-a-sorted-array) |
+| [3226-minimum-number-game](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/3226-minimum-number-game) |
 ## Array
 |  |
 | ------- |
@@ -74,6 +75,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1603-running-sum-of-1d-array](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/1603-running-sum-of-1d-array) |
 | [2058-concatenation-of-array](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/2058-concatenation-of-array) |
+| [3226-minimum-number-game](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/3226-minimum-number-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -95,6 +97,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0258-add-digits) |
 | [2058-concatenation-of-array](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/2058-concatenation-of-array) |
+| [3226-minimum-number-game](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/3226-minimum-number-game) |
 ## Stack
 |  |
 | ------- |
@@ -164,6 +167,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
+| [3226-minimum-number-game](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/3226-minimum-number-game) |
 ## Bucket Sort
 |  |
 | ------- |
