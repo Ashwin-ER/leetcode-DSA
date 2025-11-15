@@ -134,6 +134,7 @@
 | [0189-rotate-array](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0258-add-digits) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/2608-count-the-digits-that-divide-a-number) |
+| [2752-sum-multiples](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/2752-sum-multiples) |
 ## Queue
 |  |
 | ------- |
