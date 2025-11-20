@@ -35,6 +35,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0567-permutation-in-string) |
+| [0742-to-lower-case](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0742-to-lower-case) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/2219-maximum-number-of-words-found-in-sentences) |
