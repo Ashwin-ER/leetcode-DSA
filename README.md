@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0242-valid-anagram) |
@@ -45,6 +46,7 @@
 | [0049-group-anagrams](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
@@ -64,6 +66,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0217-contains-duplicate) |
@@ -124,6 +127,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
@@ -148,6 +152,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0387-first-unique-character-in-a-string) |
