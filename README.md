@@ -79,6 +79,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0739-daily-temperatures) |
 | [0860-design-circular-queue](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0860-design-circular-queue) |
 | [1019-squares-of-a-sorted-array](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/1019-squares-of-a-sorted-array) |
@@ -179,6 +180,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0704-binary-search](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0704-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/1046-max-consecutive-ones-iii) |
 ## Heap (Priority Queue)
 |  |
