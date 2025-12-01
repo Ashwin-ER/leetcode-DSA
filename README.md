@@ -178,6 +178,7 @@
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0278-first-bad-version](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0704-binary-search) |
@@ -222,4 +223,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0014-longest-common-prefix) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
