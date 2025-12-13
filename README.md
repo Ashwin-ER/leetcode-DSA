@@ -38,6 +38,7 @@
 | [0443-string-compression](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0567-permutation-in-string) |
 | [0742-to-lower-case](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0742-to-lower-case) |
+| [0844-backspace-string-compare](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0844-backspace-string-compare) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -104,11 +105,13 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0567-permutation-in-string) |
+| [0844-backspace-string-compare](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0844-backspace-string-compare) |
 | [1019-squares-of-a-sorted-array](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/1019-squares-of-a-sorted-array) |
 ## Simulation
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0258-add-digits) |
+| [0844-backspace-string-compare](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0844-backspace-string-compare) |
 | [2058-concatenation-of-array](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/2058-concatenation-of-array) |
 | [3226-minimum-number-game](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/3226-minimum-number-game) |
 ## Stack
@@ -118,6 +121,7 @@
 | [0155-min-stack](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0739-daily-temperatures](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0844-backspace-string-compare) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 ## Prefix Sum
 |  |
