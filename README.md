@@ -108,6 +108,7 @@
 | [0443-string-compression](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0844-backspace-string-compare) |
+| [0876-middle-of-the-linked-list](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/1019-squares-of-a-sorted-array) |
 ## Simulation
 |  |
@@ -217,6 +218,7 @@
 | [0141-linked-list-cycle](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0206-reverse-linked-list) |
 | [0860-design-circular-queue](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0860-design-circular-queue) |
+| [0876-middle-of-the-linked-list](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Data Stream
 |  |
 | ------- |
