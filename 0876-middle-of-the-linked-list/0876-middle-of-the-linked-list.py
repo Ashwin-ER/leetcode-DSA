@@ -9,21 +9,33 @@ class Solution(object):
         :type head: Optional[ListNode]
         :rtype: Optional[ListNode]
         """
-        """slow = fast = head
+        slow = fast = head
 
-        while fast and fast.next:
-            slow = head.next
-            fast = head.next.next"""
+        while fast is not None and fast.next is not None:
+            slow = slow.next
+            fast = fast.next.next
+        return slow
+
+
+        """cur = head.next 
+        l =0
+
+        while cur:
+            l = l+1
+            """
+
+
+
 
 
         
 
 
-        arr = []
+        """arr = []
         cur = head
         
         while cur:
             arr.append(cur)
             cur = cur.next
         
-        return arr[len(arr) // 2]
+        return arr[len(arr) // 2]"""
