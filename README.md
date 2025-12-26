@@ -251,6 +251,7 @@
 | [0110-balanced-binary-tree](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -260,6 +261,7 @@
 | [0110-balanced-binary-tree](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -276,10 +278,19 @@
 | [0110-balanced-binary-tree](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0572-subtree-of-another-tree) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0234-palindrome-linked-list) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
