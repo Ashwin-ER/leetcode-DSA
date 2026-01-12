@@ -148,11 +148,13 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0152-maximum-product-subarray) |
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0258-add-digits) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -306,4 +308,8 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
