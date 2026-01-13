@@ -29,6 +29,7 @@
 | [0014-longest-common-prefix](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0344-reverse-string) |
@@ -116,6 +117,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0258-add-digits) |
 | [0844-backspace-string-compare](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0844-backspace-string-compare) |
 | [2058-concatenation-of-array](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/2058-concatenation-of-array) |
@@ -154,6 +156,7 @@
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0258-add-digits) |
@@ -312,4 +315,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0070-climbing-stairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
