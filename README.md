@@ -12,6 +12,7 @@
 | [0217-contains-duplicate](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -53,6 +54,7 @@
 | [0169-majority-element](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -79,6 +81,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -163,6 +166,7 @@
 | [0070-climbing-stairs](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0268-missing-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2752-sum-multiples](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/2752-sum-multiples) |
@@ -199,6 +203,7 @@
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -323,5 +328,6 @@
 | ------- |
 | [0067-add-binary](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
