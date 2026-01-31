@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0217-contains-duplicate) |
@@ -69,6 +70,7 @@
 | [0046-permutations](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -333,4 +335,8 @@
 | [0136-single-number](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0338-counting-bits) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
