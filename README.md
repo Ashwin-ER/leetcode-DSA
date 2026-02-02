@@ -68,6 +68,7 @@
 | [0014-longest-common-prefix](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0046-permutations](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0073-set-matrix-zeroes) |
@@ -167,6 +168,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0189-rotate-array) |
@@ -338,5 +340,6 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Ashwin-ER/leetcode-DSA/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
