@@ -1,0 +1,9 @@
+# Last updated: 04/03/2026, 13:36:28
+class Solution(object):
+    def longestCommonPrefix(self, strs):
+        for i in range(len(strs[0])):
+            for s in strs:
+                if i == len(s) or s[i] != strs[0][i]:
+                    return s[:i]
+        return strs[0]
+            
